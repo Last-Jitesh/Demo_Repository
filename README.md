@@ -1,2 +1,4 @@
 # Demo_Repository
-Just to know this all works.
+Just to know how this all works.
+<br>
+Learning how to commit.
